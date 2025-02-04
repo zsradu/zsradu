@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zsradu
-- 👀 I’m interested in Algorithms, AI, ML, Web Development
-- 🌱 I’m currently learning Go and web dev frameworks for Go
-- 💞️ I’m looking to collaborate on Web development projects based on Go
-- 📫 How to reach me zszsradu@gmail.com
+- 👀 I’m interested in Cloud Native
+- 🌱 I’m currently learning AI and ML
+- 💞️ I’m looking to collaborate on projects related to Kubernetes and Cloud
+- 📫 How to reach me: zszsradu@gmail.com
 
 <!---
 zsradu/zsradu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
